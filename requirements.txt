@@ -1,5 +1,5 @@
 amqp==2.6.0
-certifi==2020.6.20
+certifi==2022.12.07
 chardet==3.0.4
 dahuffman==0.4.1
 dnspython==2.0.0
@@ -14,10 +14,10 @@ nameko>=2.12.0
 path==13.1.0
 path.py==12.4.0
 PyYAML==5.4
-requests==2.24.0
+requests==2.31.0
 six==1.15.0
 urllib3==1.26.5
 vine==1.3.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wrapt==1.12.1
 zipp==3.1.0
